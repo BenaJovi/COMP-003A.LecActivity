@@ -13,6 +13,6 @@ namespace COMP_003A.LecActivity
             Console.WriteLine("Hello, World!\n"); // Add comments 
             Console.WriteLine("this is a string\n"); //TEST2
             Console.WriteLine("Name:Jovani Benavides\n"); //Test
-        } //mamamamamaam
+        } 
     }
 }
