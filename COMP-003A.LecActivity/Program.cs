@@ -11,7 +11,7 @@ namespace COMP_003A.LecActivity
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!\n"); // Add comments 
-            Console.WriteLine("this is a string\n");
+            Console.WriteLine("this is a string\n"); //TEST2
             Console.WriteLine("Name:Jovani Benavides\n"); //Test
         }
     }
