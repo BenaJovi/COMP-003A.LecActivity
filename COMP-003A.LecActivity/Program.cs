@@ -12,7 +12,7 @@ namespace COMP_003A.LecActivity
         {
             Console.WriteLine("Hello, World!\n"); // Add comments 
             Console.WriteLine("this is a string\n");
-            Console.WriteLine("Name:Jovani Benavides\n");
+            Console.WriteLine("Name:Jovani Benavides\n"); //Test
         }
     }
 }
